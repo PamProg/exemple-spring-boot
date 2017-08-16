@@ -22,3 +22,19 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+# eclipse
+.settings
+.project
+.classpath
+.tern-project
+.springBeans
+
+target/
+bin/
+
+.settings
+.project
+.classpath
+
+*.log
